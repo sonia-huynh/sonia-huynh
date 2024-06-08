@@ -17,6 +17,7 @@ If you're interested, take a look at [my portfolio](https://sonia-huynh.github.i
 ![CSS](https://img.shields.io/badge/CSS-07405E?&style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-07405E?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-07405E?style=flat-square&logo=typescript)
+![Auth0](https://img.shields.io/badge/Auth0-07405E?style=flat-square&logo=Auth0)
 ![React.js](https://img.shields.io/badge/React-07405E?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-07405E?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-07405E?style=flat-square&logo=express)
