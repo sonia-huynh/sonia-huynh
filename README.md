@@ -24,4 +24,5 @@ If you're interested, take a look at [my portfolio](https://sonia-huynh.github.i
 ![knex.js](https://img.shields.io/badge/knex.js-07405E?style=flat-square&logo=knexdotjs)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-07405E?style=flat-square&logo=tailwindcss)
 ![github](https://img.shields.io/badge/GitHub-07405E?style=flat-square&logo=GitHub)
+![Git](https://img.shields.io/badge/Git-07405E?style=flat-square&logo=Git)
 ![VSCode](https://img.shields.io/badge/Vscode-07405E?style=flat-square&logo=visualstudiocode)
