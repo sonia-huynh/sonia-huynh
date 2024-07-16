@@ -7,7 +7,8 @@ Hi! I'm Sonia, I enjoy creating projects that add entertainment or improve our d
 Since I love reading and reviewing books, I have built a fullstack personal book review and rating app called BookBound made using React, Typescript, Tailwind, SQLite (with knex), Node.js, Superagent, Express, and GoogleBooks api. Take a look at the repository and demo video here: [BookBound](https://github.com/sonia-huynh/BookBound)
 
 ### 🧠 Current Learnings 
-* Practice my frontend stack 
+* Practice my frontend stack with Frontend Mentor Challenges
+* Practice testing
 * Dive into AWS 
 
 ### 💻 My Portfolio
