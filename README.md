@@ -10,7 +10,7 @@ Since I love reading and reviewing books, I have built a fullstack personal book
 * Creating a sticky notes app to learn MongoDB and implement Auth0: [Bubblegum Notes](https://github.com/sonia-huynh/bubblegumNotes)
 * Practice my frontend stack with Frontend Mentor Challenges
 * Practice testing
-* Dive into AWS 
+* Diving into AWS with AWS skill builder 
 
 ### 💻 My Portfolio
 If you're interested in my work, please take a look at [my portfolio](https://sonia-huynh.github.io/)~
@@ -28,9 +28,9 @@ If you're interested in my work, please take a look at [my portfolio](https://so
 ![Express.js](https://img.shields.io/badge/Express-07405E?style=flat-square&logo=express)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
 ![knex.js](https://img.shields.io/badge/knex.js-07405E?style=flat-square&logo=knexdotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat-square&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-07405E?style=flat-square&logo=mongoose)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-07405E?style=flat-square&logo=tailwindcss)
 ![github](https://img.shields.io/badge/GitHub-07405E?style=flat-square&logo=GitHub)
 ![Git](https://img.shields.io/badge/Git-07405E?style=flat-square&logo=Git)
 ![VSCode](https://img.shields.io/badge/Vscode-07405E?style=flat-square&logo=visualstudiocode)
-![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-07405E?style=flat-square&logo=mongoose)
